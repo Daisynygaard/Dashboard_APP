@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dashboard_APP.AddPC" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAFAAAACAAABCIAA4AAAAUGAgAAAAAAA=</HashCode>
+      <FileName>AddPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_APP.Form1" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAQAgCCQAAAAAAACBgABCAAgIIIQgAmQIgSAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dashboard_APP.PCInfo" Collapsed="true">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEQgAIAAAAQAAAgAAABAAIEAAAAAAAgBAAMwAgIAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Dashboard_APP.ConnForm" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAAACAAAACAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ConnForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
