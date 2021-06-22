@@ -21,7 +21,7 @@ namespace Dashboard_APP
             base.Dispose(disposing);
         }
 
-        #region Windows 窗体设计器生成的代码
+        #region Windows Windows Form Designer generated code
 
         /// <summary>
         /// Required method for Designer support - do not modify
